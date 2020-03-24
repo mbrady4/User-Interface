@@ -64,3 +64,111 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.top-bar {
+	display:inline-block;
+	text-align:center;
+	padding-left:10%
+}
+
+nav a {
+	color:#a5a89e;
+	text-decoration:none;
+	font-size:16px;
+	padding:50px;
+}
+
+.logo {
+	margin-top:50px;
+}
+
+.hero {
+	display: block;
+	text-align:center;
+}
+
+.hero div {
+	display:inline-block;
+	height:30%;
+	padding:100px;
+}
+
+.hero div a {
+	display:block;
+	text-align: center;
+	text-decoration: none;
+	border: 2px solid black;
+	font-size:20px;
+	width: 200px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+h1 {
+	font-size:90px;
+	display:block;
+	text-align:center;
+}
+
+.text-row {
+	display:block;
+	text-align:center;
+}
+
+.text-row div {
+	display:inline-block;
+	max-width:40%;
+	text-align:left;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+.second-text-row {
+	display:block;
+	text-align:Center;
+}
+
+.second-text-row div {
+	display:inline-block;
+	max-width:26%;
+	text-align:left;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+hr {
+	text-align:center;
+	max-width:80%;
+}
+
+.middle-img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+}
+
+.contact {
+	text-align:center;
+	display:block;
+}
+.contact h2 {
+	padding-top:20px;
+	padding-left:10%;
+	text-align:left;
+}
+
+.contact address p {
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10%;
+}
+
+
+footer {
+	text-align:center;
+	padding:50px;
+}
